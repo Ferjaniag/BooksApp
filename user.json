@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Ferjania Gabsi",
+      "email": "ferjania.gabsi@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ahmed Gabsi",
+      "email": "ahmed.gabsi@gmail.com",
+      "password": "password123"
+    },
+    {
+      "id": 4,
+      "name": "Faiza Bouraoui",
+      "email": "faiza.bouraoui@gmail.com",
+      "password": "password157"
+    },
+    {
+      "name": "Sarra Bouraoui",
+      "email": "sarra.ba@gmail.com",
+      "password": "sarra145",
+      "id": 5
+    }
+  ]
+}
